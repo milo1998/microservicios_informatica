@@ -1,0 +1,8 @@
+total 32
+drwxrwxr-x 3 camilo camilo  4096 abr 28 06:46 .
+-rw-rw-r-- 1 camilo camilo     0 abr 28 06:46 ejemplo.txt
+drwxrwxr-x 3 camilo camilo  4096 abr 28 06:46 ..
+drwxrwxr-x 8 camilo camilo  4096 abr 28 06:46 .git
+-rw-rw-r-- 1 camilo camilo   350 abr 28 06:46 .gitignore
+-rw-rw-r-- 1 camilo camilo 11357 abr 28 06:46 LICENSE
+-rw-rw-r-- 1 camilo camilo    59 abr 28 06:46 README.md
